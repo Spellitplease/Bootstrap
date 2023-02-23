@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: lobster !important;
+    background: linear-gradient(90deg, #56AB2F, #A8E063);
+}
+nav{
+    background:linear-gradient(90deg,#2193B0,#6DD5ED);
+    border-radius: none
+}
+.nav-link{
+    text-shadow: 2px 4px 3px #535353; 
+}
+footer{
+    background-repeat: no-repeat;
+    height: 150px;
+}
+.vector {
+    background-image: url(Vector.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+}
+.pVector {
+    top: 65%;
+}
