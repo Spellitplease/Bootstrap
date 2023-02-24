@@ -1,5 +1,7 @@
 *{
     margin: 0;
+
+
     padding: 0;
 }
 body{
@@ -10,6 +12,7 @@ nav{
     background:linear-gradient(90deg,#2193B0,#6DD5ED);
     border-radius: none
 }
+
 .nav-link{
     text-shadow: 2px 4px 3px #525252; 
 }
@@ -26,3 +29,4 @@ footer{
 .pVector {
     top: 65%;
 }
+
